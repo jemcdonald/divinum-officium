@@ -1,15 +1,15 @@
 [Rank]
-S. Brunonis Confessoris;;Duplex;;3;;vide C5
+S. Brunonis Confessóris;;Duplex;;3;;vide C5
 
 [RankNewcal]
-S. Brunonis Confessoris;;Duplex optional;;2;;vide C5
+S. Brunonis Confessóris;;Duplex optional;;2;;vide C5
 
 [Rule]
 vide C5;
 9 lectiones
 
 [Oratio]
-Sancti Brunónis Confessóris tui, quǽsumus, Dómine, intercessiónibus adiuvémur: ut, qui maiestátem tuam gráviter delinquéndo offéndimus, eius méritis et précibus, nostrórum delictórum véniam consequámur.
+Sancti Brunónis Confessóris tui, quǽsumus, Dómine, intercessiónibus adjuvémur: ut, qui maiestátem tuam gráviter delinquéndo offéndimus, eius méritis et précibus, nostrórum delictórum véniam consequámur.
 $Per Dominum
 
 [Lectio4]

@@ -322,6 +322,7 @@ sub specials {
        my %brevis = %{setupstring($datafolder, $lang, 'Psalterium/Prima Special.txt')};  
        my $name = ($dayname[0] =~ /(Quad5|Quad6)/i) ? 'Quad5' : 
 	      ($dayname[0] =~ /Quad/i && $dayname[0] !~ /Quadp/i) ? 'Quad' :
+	      ($dayname[0] =~ /Quadp[3]/i && $dayofweek >= 3 && $version !~ /1960/) ? 'Feria' :
 		    ($dayname[0] =~ /Adv/i) ? 'Adv' :
         ($dayname[0] =~ /Pasc6/i || ($dayname[0] =~ /Pasc5/i && $dayofweek > 3)) ? 'Asc' :
 		    ($dayname[0] =~ /Pasc[0-6]/i) ? 'Pasc' : ($dayname[0] =~ /Pasc7/i) ? Pent :
@@ -1172,7 +1173,7 @@ sub oratio
     }   
 
 
-    if ((!checksuffragium() || $dayname[0] =~ /(Quad5|Quad6)/i || $version =~ /(1960|monastic)/i)
+    if ((!checksuffragium() || $dayname[0] =~ /(Quad5|Quad6)/i || $version =~ /(1955|1960|monastic)/i)
     && $addconclusio ) {push(@s, $addconclusio); }
 }
 
@@ -1290,7 +1291,7 @@ sub commemoratio {
 	if ($ind == 1 && $item !~ /winner/i) {$code = 0;}
   } elsif (exists($w{Commemoratio})) {$w = getrefs($w{Commemoratio}, $lang, $ind, $w{Rule}); } 	
 
-  if ($hora =~ /Laudes/i && $dayofweek == 6 && exists($w{'Commemoratio Sabbat'})) 
+  if ($hora =~ /Laudes/i && $dayofweek == 6 && exists($w{'Commemoratio Sabbat'}) && $version !~ /1960/ ) 
     {$w = getrefs($w{'Commemoratio Sabbat'}, $lang, 2, $w{Rule});} 
 
   

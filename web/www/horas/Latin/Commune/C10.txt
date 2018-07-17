@@ -88,21 +88,21 @@ Per Vírginem matrem concédat nobis Dóminus salútem et pacem. Amen.
 
 [Hymnus Laudes]
 {:Ogloriosavirginum:}v. O gloriósa vírginum,
-Sublimis inter sidera,
+Sublímis inter sídera,
 Qui te creávit, párvulum
 Lacténte nutris úbere.
 _
 Quod Heva tristis ábstulit,
-Tu reddis almo germine:
-Intrent ut astra flebiles,
-Cæli reclúdis cardines.
+Tu reddis almo gérmine:
+Intrent ut astra flébiles,
+Cæli reclúdis cárdines.
 _
-Tu Regis alti janua
-Et aula lucis fulgida:
+Tu Regis alti jánua
+Et aula lucis fúlgida:
 Vitam datam per Vírginem,
 Gentes redémptæ, pláudite.
 _
-* Jesu tibi sit gloria,
+* Jesu tibi sit glória,
 Qui natus es de Vírgine,
 Cum Patre, et almo Spiritu,
 In sempitérna sǽcula.
@@ -113,7 +113,7 @@ V. Benedícta tu in muliéribus.
 R. Et benedíctus fructus ventris tui.
 
 [Ant 2]
-Beáta Dei Génetrix, Maria, * Virgo perpétua, templum Dómini, sacrárium Spíritus Sancti, sola sine exemplo placuísti Dómino nostro Jesu Christo: ora pro pópulo, intérveni pro clero, intercéde pro devóto femíneo sexu.
+Beáta Dei Génetrix, Maria, * Virgo perpétua, templum Dómini, sacrárium Spíritus Sancti, sola sine exémplo placuísti Dómino nostro Jesu Christo: ora pro pópulo, intérveni pro clero, intercéde pro devóto femíneo sexu.
 
 [Ant 21]
 @Sancti/01-01:Ant 2
@@ -183,7 +183,7 @@ De via perversitátis prodúntur dicere: Virgo concépit, sed non virgo generáv
 [Lectio M02]
 Ex libro sancti Hierónymi Presbýteri advérsus Joviniánum
 !Apologia ad Pammachium pro lib. advérsus Jovinianum, in fine
-Christus virgo, Mater vírginis nostri virgo perpetua, mater et virgo. Jesus enim clausis ingréssus est ostiis; et in sepúlcro ejus, quod novum et in petra duríssima fuerat excisum, nec ántea quis nec póstea positus est. Hortus conclusus, fons signátus. De quo fonte ille fluvius manat, juxta Joël, qui írrigat torréntem vel funium vel spinárum: funium, peccatórum, quibus ante alligabámur; spinárum, quæ suffócant seméntem patrisfamilias. Hæc est porta orientalis, ut ait Ezéchiel, semper clausa et lúcida, opériens in se vel ex se próferens Sancta sanctórum; per quam Sol justítiæ et Pontifex noster secúndum ordinem Melchisedech ingréditur et egréditur.
+Christus virgo, Mater vírginis nostri virgo perpétua, mater et virgo. Jesus enim clausis ingréssus est óstiis; et in sepúlcro ejus, quod novum et in petra duríssima fúerat excísum, nec ántea quis nec póstea positus est. Hortus conclúsus, fons signátus. De quo fonte ille flúvius manat, juxta Joël, qui írrigat torréntem vel fúnium vel spinárum: fúnium, peccatórum, quibus ante alligabámur; spinárum, quæ suffócant seméntem patrisfamílias. Hæc est porta orientális, ut ait Ezéchiel, semper clausa et lúcida, opériens in se vel ex se próferens Sancta sanctórum; per quam Sol justítiæ et Póntifex noster secúndum órdinem Melchísedech ingréditur et egréditur.
 &teDeum
 
 [Lectio M03]
@@ -200,20 +200,20 @@ Porta hæc clausa erit, et non aperiétur. Pulchre quidam portam clausam, per qu
 
 [Lectio M05]
 Ex Tractátu S. Augustini Epíscopi de Sýmbolo ad Catechúmenos
-!Lib. 3. cap. 4. in fine tomi 9.
-Per féminam mors, per féminam vita: per Hevam intéritus, per Mariam salus. Illa, corrupta, secuta est seductórem: hæc, integra, péperit Salvatórem. Illa póculum a serpénte propinátum libenter accépit et viro trádidit, ex quo simul mereréntur occídi: hæc, grátia cælésti désuper infusa, vitam prótulit, per quam caro mortua possit resuscitari. Quis est qui hæc operátus est, nisi Vírginis Fílius et vírginum Sponsus, qui áttulit Matri fœcunditátem, sed non ábstulit integritátem?
+!Lib. 3. cap. 4. in fine
+Per féminam mors, per féminam vita: per Hevam intéritus, per Mariam salus. Illa, corrúpta, secúta est seductórem: hæc, íntegra, péperit Salvatórem. Illa póculum a serpénte propinátum libénter accépit et viro trádidit, ex quo simul mereréntur occídi: hæc, grátia cælésti désuper infúsa, vitam prótulit, per quam caro mortua possit resuscitári. Quis est qui hæc operátus est, nisi Vírginis Fílius et vírginum Sponsus, qui áttulit Matri fecunditátem, sed non ábstulit integritátem?
 &teDeum
 
 [Lectio M06]
 Sermo sancti Bernárdi Abbátis
-!De Verbis Apocalypsis cap. 12. Signum magnum
-Vehementer quidem nobis, dilectíssimi, vir unus et mulier una nocuére; sed, grátias Deo, per unum nihilóminus virum et mulíerum unam ómnia restaurántur, nec sine magno fænore gratiárum. Neque enim sicut delíctum, ita et donum; sed excedit damni æstimatiónem beneficii magnitudo. Sic nimirum prudentíssimus et clementíssimus artifex, quod quassátum fúerat, non confrégit, sed utílius omnino refécit, ut videlicet nobis novum formaret Adam ex veteri, Hevam transfúnderet in Mariam.
+!De Verbis Apocalypsis cap. 12, Signum magnum
+Veheménter quidem nobis, dilectíssimi, vir unus et múlier una nocuére; sed, grátias Deo, per unum nihilóminus virum et mulíerum unam ómnia restaurántur, nec sine magno fǽnore gratiárum. Neque enim sicut delíctum, ita et donum; sed excédit damni æstimatiónem benefícii magnitúdo. Sic nimírum prudentíssimus et clementíssimus ártifex, quod quassátum fúerat, non confrégit, sed utílius omníno refécit, ut vidélicet nobis novum formáret Adam ex véteri, Hevam transfúnderet in Maríam.
 &teDeum
 
 [Lectio M07]
-Ex Epístola sancti Ambrósii Epíscopi ad Sirícium Papam.
-!Epist. 81, alias 7, circa medium.
-Non excédit fidem, quod homo exívit de vírgine, quando petra fontem prófluum scaturívit, ferrum super aquas natávit, ambulávit homo super aquas. Ergo si hóminem unda portávit, non potuit hóminem virgo generare, atque hóminem, de quo légimus: Et mittet illis Dóminus hóminem, qui salvos fáciet eos et notus erit Dóminus Ægyptiis? In veteri itaque Testaménto virgo Hebræórum per mare duxit exercitum: in novo Testaménto Virgo, generis aula cæléstis, electa est ad salútem.
+Ex Epístola sancti Ambrósii Epíscopi ad Sirícium Papam
+!Epist. 81, alias 7, circa medium
+Non excédit fidem, quod homo exívit de vírgine, quando petra fontem prófluum scaturívit, ferrum super aquas natávit, ambulávit homo super aquas. Ergo si hóminem unda portávit, non potuit hóminem virgo generáre, atque hóminem, de quo légimus: Et mittet illis Dóminus hóminem, qui salvos fáciet eos et notus erit Dóminus Ægýptiis? In véteri itaque Testaménto virgo Hebræórum per mare duxit exércitum: in novo Testaménto Virgo, géneris aula cæléstis, elécta est ad salútem.
 &teDeum
 
 [Lectio M08]

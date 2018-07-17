@@ -38,7 +38,7 @@ _
 V. {::}Dignáre me laudáre te, Virgo sacráta.
 R. Da mihi virtútem contra hostes tuos.
 v. Orémus. 	
-v. Concéde, miséricors Deus, fragilitáti nostræ præsídium; ut, qui sanctæ Dei Genitrícis memóriam ágimus; intercessiónis eíus auxílio, a nostris iniquitátibus resurgámus. Per eúmdem Christum Dóminum nóstrum. Amen.
+v. Concéde, miséricors Deus, fragilitáti nostræ præsídium; ut, qui sanctæ Dei Genetrícis memóriam ágimus; intercessiónis eíus auxílio, a nostris iniquitátibus resurgámus. Per eúmdem Christum Dóminum nóstrum. Amen.
 
 [Paschalis]
 {:S-ReginaCaeli:}v. Regína cæli, lætáre, allelúia;
@@ -49,7 +49,7 @@ _
 V. {::}Gaude et lætáre, Virgo María, allelúia.
 R. Quia surréxit Dóminus vere, allelúia.
 v. Orémus. 	
-v. Deus, qui per resurrectiónem Fílii tui, Dómini nostri Jesu Christi, mundum lætificáre dignátus es: præsta, quǽsumus; ut, per eíus Genitrícem Vírginem Maríam, perpétuæ capiámus gáudia vitæ. Per eúmdem Christum Dóminum nóstrum. Amen.
+v. Deus, qui per resurrectiónem Fílii tui, Dómini nostri Jesu Christi, mundum lætificáre dignátus es: præsta, quǽsumus; ut, per eíus Genetrícem Vírginem Maríam, perpétuæ capiámus gáudia vitæ. Per eúmdem Christum Dóminum nóstrum. Amen.
 
 [Postpentecost]
 {:S-SalveRegina:}v. Salve, Regína, mater misericórdiæ; 
